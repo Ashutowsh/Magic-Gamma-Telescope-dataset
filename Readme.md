@@ -1,1 +1,1 @@
-This is a project (Learning)
+KNN, Logistic Regression, Naive Bayes Probability, Neural net
